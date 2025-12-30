@@ -6,4 +6,4 @@ categories:
 - hi
 ---
 Here is my first post created automatically using GitHub Actions!
-![testpng](test.png)
+![testpng](2025-12-31-first-post-from-github-actions copy\test.png)
