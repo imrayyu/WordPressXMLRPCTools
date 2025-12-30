@@ -6,3 +6,4 @@ categories:
 - hi
 ---
 Here is my first post created automatically using GitHub Actions!
+![testpng](test.png)
